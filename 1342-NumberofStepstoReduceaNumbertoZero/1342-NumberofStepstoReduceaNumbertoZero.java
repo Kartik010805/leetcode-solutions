@@ -1,4 +1,4 @@
-// Last updated: 7/31/2025, 12:51:46 AM
+// Last updated: 7/31/2025, 12:58:34 AM
 class Solution {
     public int numberOfSteps(int num) {
         return helper( num, 0);
