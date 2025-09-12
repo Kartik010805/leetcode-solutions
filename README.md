@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Kartik010805/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kartik010805/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kartik010805/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kartik010805/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kartik010805/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
