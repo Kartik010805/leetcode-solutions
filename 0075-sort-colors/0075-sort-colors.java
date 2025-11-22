@@ -1,18 +1,23 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int count0 = 0, count1 = 0, count2 = 0;
-
-        // Count occurrences of 0, 1, 2
-        for (int num : nums) {
-            if (num == 0) count0++;
-            else if (num == 1) count1++;
-            else count2++;
-        }
-
-        // Rewrite the array in sorted order
-        int index = 0;
-        while (count0-- > 0) nums[index++] = 0;
-        while (count1-- > 0) nums[index++] = 1;
-        while (count2-- > 0) nums[index++] = 2;
+        int i=0,    
+            k=0,
+            j=nums.length-1;
+            while(k<=j){
+                if(nums[k]==1){
+                    k+=1;
+                }else if(nums[k]==2){
+                    int temp=nums[k];
+                    nums[k]=nums[j];
+                    nums[j]=temp;
+                    j-=1;
+                }else{
+                      int temp=nums[k];
+                    nums[k]=nums[i];
+                    nums[i]=temp;
+                    i+=1;
+                    k+=1;
+                }
+            }
     }
 }
