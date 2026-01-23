@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kartik010805/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kartik010805/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kartik010805/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartik010805/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kartik010805/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Kartik010805/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kartik010805/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Kartik010805/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kartik010805/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Stack
