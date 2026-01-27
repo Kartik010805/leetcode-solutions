@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kartik010805/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Kartik010805/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kartik010805/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Kartik010805/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik010805/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik010805/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Kartik010805/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
