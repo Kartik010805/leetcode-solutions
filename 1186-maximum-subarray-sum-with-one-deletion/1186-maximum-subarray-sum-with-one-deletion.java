@@ -1,12 +1,13 @@
 class Solution {
     public int maximumSum(int[] arr) {
-        int ans=arr[0];
-        int nodelete=arr[0];
-        int onedelete=Integer.MIN_VALUE+1000;
-        for(int i=1;i<arr.length;i++){
-            onedelete=Math.max(nodelete,onedelete+arr[i]);
-            nodelete=Math.max(arr[i],nodelete+arr[i]);
-            ans=Math.max(ans,Math.max(onedelete,nodelete));
+        int noDel = arr[0];
+        int oneDel = arr[0];
+        int ans = arr[0];
+
+        for (int i = 1; i < arr.length; i++) {
+            oneDel = Math.max(noDel, oneDel + arr[i]);
+            noDel = Math.max(arr[i], noDel + arr[i]);
+            ans = Math.max(ans, Math.max(noDel, oneDel));
         }
         return ans;
     }
