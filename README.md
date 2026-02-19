@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kartik010805/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik010805/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kartik010805/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
