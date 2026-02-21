@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kartik010805/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Kartik010805/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kartik010805/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kartik010805/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Kartik010805/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kartik010805/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Kartik010805/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Kartik010805/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
