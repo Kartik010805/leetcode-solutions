@@ -5,9 +5,9 @@ class Solution {
         for(int i:nums){
             map.put(i,map.getOrDefault(i,0)+1);
         }
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]%2==0 && map.get(nums[i])==1){
-                return nums[i];
+        for(int num:nums){
+            if(num % 2==0 && map.get(num)==1){
+                return num;
             }
         }
         return -1;
