@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Kartik010805/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik010805/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartik010805/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Kartik010805/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Kartik010805/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
