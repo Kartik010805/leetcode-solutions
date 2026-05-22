@@ -21,6 +21,7 @@ class Solution {
         
         while(!asc.isEmpty()){
             smallest(asc,list);
+            if(list.size()==k) break;
         }
         return list.get(k-1);
     }
