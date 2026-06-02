@@ -1,6 +1,6 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<int[]> queue=new LinkedList<>();
+        Queue<int[]> queue=new ArrayDeque<>();
         boolean [][]visited=new boolean[grid.length][grid[0].length];
         int fresh=0;
         for(int i=0;i<grid.length;i++){
