@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Kartik010805/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Kartik010805/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik010805/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik010805/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kartik010805/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik010805/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik010805/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kartik010805/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
