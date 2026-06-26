@@ -3,7 +3,7 @@ class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
 
         int n = position.length;
-
+        if (n==1) return 1;
         int[][] cars = new int[n][2];
 
         for (int i = 0; i < n; i++) {
