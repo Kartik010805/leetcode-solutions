@@ -19,6 +19,7 @@ class Solution {
             int n=graph[node][j];
             if(color[n] !=-1 && color[n]==c){
                 res = false;
+                return;
             }
             if(color[n]==-1){
                 dfs(graph,color,1-c,n);
