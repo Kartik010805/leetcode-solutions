@@ -30,7 +30,7 @@ class Solution {
                 }
             }
         }
-        return;
+        
     }
     public void dfs(char[][] board,int r,int c){
         int m=board.length;
