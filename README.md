@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik010805/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kartik010805/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3866-first-unique-even-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik010805/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Heap (Priority Queue)
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Kartik010805/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kartik010805/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kartik010805/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kartik010805/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Kartik010805/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -585,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kartik010805/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kartik010805/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Kartik010805/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
