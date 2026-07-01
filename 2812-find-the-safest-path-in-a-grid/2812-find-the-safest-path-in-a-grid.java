@@ -1,13 +1,15 @@
 class Solution {
 
-    int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
+    int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
 
     public int maximumSafenessFactor(List<List<Integer>> grid) {
+
         int n = grid.size();
 
         // Step 1: Multi-source BFS
         int[][] dist = new int[n][n];
-        for (int[] row : dist) Arrays.fill(row, -1);
+        for (int[] row : dist)
+            Arrays.fill(row, -1);
 
         Queue<int[]> q = new LinkedList<>();
 
@@ -23,7 +25,7 @@ class Solution {
         while (!q.isEmpty()) {
             int[] cur = q.poll();
 
-            for (int[] d : dir) {
+            for (int[] d : dirs) {
                 int nr = cur[0] + d[0];
                 int nc = cur[1] + d[1];
 
@@ -34,52 +36,83 @@ class Solution {
             }
         }
 
-        int low = 0, high = 2 * n;
+        // Step 2: Store all cells
+        List<int[]> cells = new ArrayList<>();
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canReach(dist, mid)) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                cells.add(new int[]{dist[i][j], i, j});
             }
         }
 
-        return high;
-    }
+        cells.sort((a, b) -> b[0] - a[0]);
 
-    private boolean canReach(int[][] dist, int safe) {
-        int n = dist.length;
+        DSU dsu = new DSU(n * n);
+        boolean[][] active = new boolean[n][n];
 
-        if (dist[0][0] < safe || dist[n - 1][n - 1] < safe)
-            return false;
+        for (int[] cell : cells) {
 
-        boolean[][] vis = new boolean[n][n];
-        Queue<int[]> q = new LinkedList<>();
+            int safe = cell[0];
+            int r = cell[1];
+            int c = cell[2];
 
-        q.offer(new int[]{0, 0});
-        vis[0][0] = true;
+            active[r][c] = true;
 
-        while (!q.isEmpty()) {
-            int[] cur = q.poll();
+            for (int[] d : dirs) {
 
-            if (cur[0] == n - 1 && cur[1] == n - 1)
-                return true;
+                int nr = r + d[0];
+                int nc = c + d[1];
 
-            for (int[] d : dir) {
-                int nr = cur[0] + d[0];
-                int nc = cur[1] + d[1];
+                if (nr >= 0 && nc >= 0 && nr < n && nc < n && active[nr][nc]) {
 
-                if (nr >= 0 && nc >= 0 && nr < n && nc < n &&
-                        !vis[nr][nc] && dist[nr][nc] >= safe) {
-
-                    vis[nr][nc] = true;
-                    q.offer(new int[]{nr, nc});
+                    dsu.union(r * n + c, nr * n + nc);
                 }
             }
+
+            if (active[0][0] && active[n - 1][n - 1]
+                    && dsu.find(0) == dsu.find(n * n - 1)) {
+                return safe;
+            }
         }
 
-        return false;
+        return 0;
+    }
+
+    class DSU {
+
+        int[] parent;
+        int[] rank;
+
+        DSU(int n) {
+            parent = new int[n];
+            rank = new int[n];
+
+            for (int i = 0; i < n; i++)
+                parent[i] = i;
+        }
+
+        int find(int x) {
+            if (parent[x] != x)
+                parent[x] = find(parent[x]);
+            return parent[x];
+        }
+
+        void union(int x, int y) {
+
+            int px = find(x);
+            int py = find(y);
+
+            if (px == py)
+                return;
+
+            if (rank[px] < rank[py]) {
+                parent[px] = py;
+            } else if (rank[px] > rank[py]) {
+                parent[py] = px;
+            } else {
+                parent[py] = px;
+                rank[px]++;
+            }
+        }
     }
 }
