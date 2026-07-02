@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kartik010805/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3866-first-unique-even-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kartik010805/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kartik010805/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kartik010805/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kartik010805/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Kartik010805/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -608,4 +613,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
