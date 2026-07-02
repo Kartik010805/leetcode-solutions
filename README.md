@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Kartik010805/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Kartik010805/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kartik010805/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kartik010805/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kartik010805/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Kartik010805/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kartik010805/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kartik010805/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kartik010805/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Kartik010805/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kartik010805/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kartik010805/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartik010805/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kartik010805/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kartik010805/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
@@ -600,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Kartik010805/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Kartik010805/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
