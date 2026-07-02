@@ -19,7 +19,7 @@ class Solution {
             int[]curr=pq.poll();
             int node=curr[0];
             int d=curr[1];
-            if (d > dist[node]) continue;
+            
             for(int[]next:adj.get(node)){
                 int v=next[0];
                 int w=next[1];
