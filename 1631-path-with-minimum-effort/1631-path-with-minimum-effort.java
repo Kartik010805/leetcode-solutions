@@ -6,7 +6,7 @@ class Solution {
         for(int[]row:dist){
             Arrays.fill(row,Integer.MAX_VALUE);
         }
-        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
+        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
         pq.offer(new int []{0,0,0});
         dist[0][0]=0;
         int [] dr={-1,1,0,0};
