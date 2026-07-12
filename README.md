@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kartik010805/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik010805/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Kartik010805/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik010805/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik010805/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kartik010805/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Kartik010805/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kartik010805/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3866-first-unique-even-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik010805/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
