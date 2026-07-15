@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Kartik010805/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kartik010805/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kartik010805/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3866-first-unique-even-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Kartik010805/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartik010805/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kartik010805/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kartik010805/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik010805/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
