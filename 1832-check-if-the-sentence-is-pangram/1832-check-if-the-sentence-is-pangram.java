@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
         int [] arr= new int[26];
-        Arrays.fill(arr,0);
+       
         for(int i=0;i<sentence.length();i++){
             arr[sentence.charAt(i)-'a']=1;
         }
