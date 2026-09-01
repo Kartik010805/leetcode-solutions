@@ -1,14 +1,15 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int k = 0; // points to the next position to write a non-val number
-
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != val) {
-                nums[k] = nums[i]; // overwrite the element at k
-                k++;
+        int k=nums.length-1;
+        for(int i=0;i<=k;i++){
+            if(nums[i]==val){
+                int temp=nums[k];
+                nums[k]=nums[i];
+                nums[i]=temp;
+                k--;
+                i--;
             }
         }
-
-        return k;
+        return k+1;
     }
 }
