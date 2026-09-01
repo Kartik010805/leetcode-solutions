@@ -667,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartik010805/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kartik010805/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
