@@ -17,7 +17,7 @@ class Solution {
         return uniqueCount;
     }
 
-    private boolean canForm(int num, int[] baseCount) {
+    public boolean canForm(int num, int[] baseCount) {
         int[] numCount = new int[10];
 
         while (num > 0) {
