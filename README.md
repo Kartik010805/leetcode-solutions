@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kartik010805/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kartik010805/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik010805/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Kartik010805/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Kartik010805/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kartik010805/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kartik010805/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
