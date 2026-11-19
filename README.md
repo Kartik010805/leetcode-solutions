@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik010805/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/Kartik010805/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Kartik010805/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartik010805/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kartik010805/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik010805/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kartik010805/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2614-prime-in-diagonal](https://github.com/Kartik010805/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Kartik010805/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik010805/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kartik010805/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/Kartik010805/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Kartik010805/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartik010805/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Kartik010805/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartik010805/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
