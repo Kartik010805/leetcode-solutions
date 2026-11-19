@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik010805/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kartik010805/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik010805/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartik010805/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kartik010805/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kartik010805/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -716,12 +718,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik010805/leetcode-solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Kartik010805/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
